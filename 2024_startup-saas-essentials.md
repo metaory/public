@@ -575,12 +575,6 @@ Opinionated list of SaaS offerings for startups _2024_
 
 ---
 
-[Back to top](#categories)
-
-## Personal Choice
-
----
-
 ## Reference
 
 - [heyspacetime/awesome-startup](https://github.com/heyspacetime/awesome-startup)
