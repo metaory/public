@@ -8,7 +8,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 ## Selection
 
-| Category                                            | Selected                                                                        |
+| Category                                            | Option                                                                          |
 | --------------------------------------------------- | ------------------------------------------------------------------------------- |
 | Accounting                                          | QuickBooks                                                                      |
 | AI                                                  | OpenAI                                                                          |
