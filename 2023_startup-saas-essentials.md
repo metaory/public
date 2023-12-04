@@ -13,9 +13,9 @@ Opinionated list of SaaS offerings for startups _2023_
 | Accounting                                          | QuickBooks                                                                      |
 | AI                                                  | OpenAI                                                                          |
 | Analytics                                           | Segment, Clicky, GA                                                             |
-| Auth                                                |                                                                                 |
-| Automation - Orchestration                          | Auth0, Cognito, Ory, Zitadel                                                    |
-| BPM - Business Process Management                   | n8n, Temporal                                                                   |
+| Auth                                                | Auth0, Cognito, Ory, Zitadel                                                    |
+| Automation - Orchestration                          | n8n, Temporal                                                                   |
+| BPM - Business Process Management                   | ?                                                                               |
 | CICD - Continuous Integration - Continuous Delivery | GitHubAction                                                                    |
 | Cloud Nightly                                       | Fly.io, SupaBase                                                                |
 | Communication                                       | Slack, Loom                                                                     |
