@@ -9,110 +9,118 @@ Opinionated list of SaaS offerings for startups _2023_
 ## Categories
 
 - [AI](#ai)
-
 - [Accounting](#accounting)
-
 - [Analytics](#analytics)
-
 - [Auth](#auth)
-
 - [Automation - Orchestration](#automation---orchestration)
-
 - [BPM - Business Process Management](#bpm---business-process-management)
-
-- [CI/CD - Continuous Integration - Continuous Delivery](#ci/cd---continuous-integration---continuous-delivery)
-
+- [CI-CD - Continuous Integration - Continuous Delivery](#ci-cd---continuous-integration---continuous-delivery)
 - [CRM](#crm)
-
 - [CRO - Conversion Rate Optimization](#cro---conversion-rate-optimization)
-
 - [CS - Customer Support](#cs---customer-support)
-
 - [CSP - Cloud Service Provider](#csp---cloud-service-provider)
-
 - [Cloud Native](#cloud-native)
-
 - [Cloud Nightly](#cloud-nightly)
-
 - [Communication](#communication)
-
 - [Content](#content)
-
 - [DNS](#dns)
-
 - [Design](#design)
-
 - [Development](#development)
-
 - [Diagrams](#diagrams)
-
-- [Documentation](#documentation)
-
 - [ERP](#erp)
-
 - [ETC](#etc)
-
 - [Feedback - NPS](#feedback---nps)
-
 - [Growth - AB - FeatureFlag - RemoteConfig](#growth---ab---featureflag---remoteconfig)
-
 - [HR - Human Resources](#hr---human-resources)
-
 - [Headless CMS - Content Management System](#headless-cms---content-management-system)
-
 - [Incubators - Accelerators](#incubators---accelerators)
-
 - [Investors](#investors)
-
 - [KB - Knowledge Base](#kb---knowledge-base)
-
 - [KPIs - OKRs](#kpis---okrs)
-
 - [Landing Page](#landing-page)
-
 - [Low - No Code](#low---no-code)
-
 - [ML](#ml)
-
 - [Marketing](#marketing)
-
 - [Monitoring](#monitoring)
-
 - [Multi Cloud](#multi-cloud)
-
 - [NLP](#nlp)
-
 - [Notes](#notes)
-
 - [Onboarding](#onboarding)
-
 - [Outreach - Outbound](#outreach---outbound)
-
 - [PM - Project Management](#pm---project-management)
-
 - [Payment](#payment)
-
 - [Productivity](#productivity)
-
 - [Sales - Leads](#sales---leads)
-
 - [Security](#security)
-
 - [Slides](#slides)
-
 - [Status](#status)
-
 - [Subscription](#subscription)
-
 - [Testing - QA](#testing---qa)
-
 - [Tracking](#tracking)
-
 - [VSC - Version Source Control](#vsc---version-source-control)
 
 ---
 
+## Selected
+
+| Category | Selected |
+| -------- | -------- |
+| ... | ... |
+| Password Generators | padloc |
+| ... | ... |
+| Accounting | QuickBooks |
+| AI | OpenAI |
+| Analytics | Segment, Clicky, GA |
+| Auth | |
+| Automation - Orchestration | Auth0, Cognito, Ory, Zitadel |
+| BPM - Business Process Management | n8n, Temporal |
+| CICD - Continuous Integration - Continuous Delivery | GitHubAction |
+| Cloud Nightly | Fly.io, SupaBase |
+| Communication | Slack, Loom |
+| Content | Weglot, Webflow, Grammarly |
+| CRM | HubSpot |
+| CRO - Conversion Rate Optimization | Hotjar |
+| CS - Customer Support | Intercom |
+| CSP - Cloud Service Provider | AWS |
+| Design | Figma, Miro |
+| Development | Neovim |
+| Diagrams | Whimsical |
+| DNS | CloudFlare |
+| ERP | ? |
+| Feedback - NPS | Canny, FeatureOS |
+| Growth - AB - FeatureFlag - RemoteConfig | Flagsmith |
+| Headless CMS - Content Management System | Strapi |
+| HR - Human Resources | Swingvy |
+| Incubators - Accelerators | 500Startups |
+| KB - Knowledge Base | Notion.so |
+| KPIs - OKRs | Baremetrics |
+| Landing Page | Unbounce,Webflow |
+| Low - No Code | Retool, NocoDB, Appwrite, Budibase |
+| Marketing | Cal, Pendo |
+| ML | GCP Prediction |
+| Monitoring | Sentry, Signoz, Elastic |
+| Multi Cloud | Claudie, Oovery, Plural |
+| NLP | GCP, GPT |
+| Notes | Obsidian |
+| Onboarding | Userlane |
+| Outreach - Outbound | Pusher, Dub |
+| Payment | Stripe |
+| PM - Project Management | :Linear: |
+| Productivity | - |
+| Sales - Leads | :KyLeads: |
+| Security | {SOBM, SAST, SCA, Dependency, Secret, MissConfiguration}Scans, ProjectDiscovery |
+| Slides | :Sli.dev: |
+| Status | - |
+| Subscription | ReCharge |
+| Testing - QA | Playwright, Optimizely |
+| Tracking | :OpenReplay:, :FullStory:|
+| VSC - Version Source Control | :GitHub: |
+
+---
+
 ### General Tools
+
+[🔼 Back to top](#categories)
 
 #### Password Generators
 
@@ -124,15 +132,21 @@ Opinionated list of SaaS offerings for startups _2023_
 
 ### SaaS Offerings
 
+[🔼 Back to top](#categories)
+
 #### Accounting
 
 - QuickBooks
 - Xero
 
+[🔼 Back to top](#categories)
+
 #### AI
 
 - OpenAI.com
 - Jina.ai
+
+[🔼 Back to top](#categories)
 
 #### Analytics
 
@@ -145,6 +159,8 @@ Opinionated list of SaaS offerings for startups _2023_
 - Amplitude
 - Semrush
 
+[🔼 Back to top](#categories)
+
 #### Auth
 
 - Auth0
@@ -155,6 +171,8 @@ Opinionated list of SaaS offerings for startups _2023_
 - Ory Identity
 - Zitadel
 
+[🔼 Back to top](#categories)
+
 #### Automation - Orchestration
 
 - n8n.io :OS:
@@ -163,11 +181,15 @@ Opinionated list of SaaS offerings for startups _2023_
 - Activepieces.com :OS:
 - Temporal.io :OS:
 
+[🔼 Back to top](#categories)
+
 #### BPM - Business Process Management
 
 - process.st
 
-#### CI/CD - Continuous Integration - Continuous Delivery
+[🔼 Back to top](#categories)
+
+#### CI-CD - Continuous Integration - Continuous Delivery
 
 - GitHub Actions
 - CircleCI
@@ -175,7 +197,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - TravisCI
 - GitLabCI
 
-#### Cloud Native
+[🔼 Back to top](#categories)
 
 #### Cloud Nightly
 
@@ -190,11 +212,15 @@ Opinionated list of SaaS offerings for startups _2023_
 - Space-Cloud.io :OS:
 - Vercel
 
+[🔼 Back to top](#categories)
+
 #### Communication
 
 - Slack
 - Loom
 - DustDesk | Remote Desktop
+
+[🔼 Back to top](#categories)
 
 #### Content
 
@@ -203,15 +229,21 @@ Opinionated list of SaaS offerings for startups _2023_
 - Webflow
 - Grammarly
 
+[🔼 Back to top](#categories)
+
 #### CRM
 
 - Close.com
 - HubSpot.com
 - Salesforce.com
 
+[🔼 Back to top](#categories)
+
 #### CRO - Conversion Rate Optimization
 
 - Hotjar
+
+[🔼 Back to top](#categories)
 
 #### CS - Customer Support
 
@@ -221,6 +253,8 @@ Opinionated list of SaaS offerings for startups _2023_
 - GrooveHQ
 - Customer.io
 
+[🔼 Back to top](#categories)
+
 #### CSP - Cloud Service Provider
 
 - AWS
@@ -228,6 +262,8 @@ Opinionated list of SaaS offerings for startups _2023_
 - Azure
 - Alibaba
 - Dyrector
+
+[🔼 Back to top](#categories)
 
 #### Design
 
@@ -237,11 +273,15 @@ Opinionated list of SaaS offerings for startups _2023_
 - Sketch
 - Miro
 
+[🔼 Back to top](#categories)
+
 #### Development
 
 - Glitch
 - Jetbrains X
 - Postman
+
+[🔼 Back to top](#categories)
 
 #### Diagrams
 
@@ -250,12 +290,14 @@ Opinionated list of SaaS offerings for startups _2023_
 - Draw.io
 - Lucidchart
 
+[🔼 Back to top](#categories)
+
 #### DNS
 
 - CloudFlare.dns
 - AWS.Route53
 
-#### Documentation
+[🔼 Back to top](#categories)
 
 #### ERP
 
@@ -264,11 +306,15 @@ Opinionated list of SaaS offerings for startups _2023_
 - ERPNext.com :OS:
 - Odoo.com
 
+[🔼 Back to top](#categories)
+
 #### ETC
 
 - GetTerms.io
 - free-for.life
 - OpenBBTerminal | :Investment Research:
+
+[🔼 Back to top](#categories)
 
 #### Feedback - NPS
 
@@ -278,16 +324,22 @@ Opinionated list of SaaS offerings for startups _2023_
 - Crisp
 - FeatureOS
 
+[🔼 Back to top](#categories)
+
 #### Growth - AB - FeatureFlag - RemoteConfig
 
 - Flagsmith.com
 - GrowthBook.io
+
+[🔼 Back to top](#categories)
 
 #### Headless CMS - Content Management System
 
 - Tipe
 - Strapi
 - cockpit
+
+[🔼 Back to top](#categories)
 
 #### HR - Human Resources
 
@@ -296,14 +348,20 @@ Opinionated list of SaaS offerings for startups _2023_
 - Bamboo
 - Hubstaff
 
+[🔼 Back to top](#categories)
+
 #### Incubators - Accelerators
 
 - YCombinator
 - 500Startups
 
+[🔼 Back to top](#categories)
+
 #### Investors
 
 - ledgy - equity management
+
+[🔼 Back to top](#categories)
 
 #### KB - Knowledge Base
 
@@ -312,15 +370,21 @@ Opinionated list of SaaS offerings for startups _2023_
 - Outline
 - appflowy.io :OS:
 
+[🔼 Back to top](#categories)
+
 #### KPIs - OKRs
 
 - baremetrics - Revenue tracking
 - strides
 
+[🔼 Back to top](#categories)
+
 #### Landing Page
 
 - Unbounce
 - Webflow
+
+[🔼 Back to top](#categories)
 
 #### Low - No Code
 
@@ -329,7 +393,6 @@ Opinionated list of SaaS offerings for startups _2023_
 - Bubble
 - Plasmic
 - AppSmith
-- Budibase
 - Airtable
 - Appsmith.com
 - ToolJet.com :OS:
@@ -341,6 +404,8 @@ Opinionated list of SaaS offerings for startups _2023_
 - Appwrite.io :OS:
 - Budibase.com :OS:
 
+[🔼 Back to top](#categories)
+
 #### Marketing
 
 - Rebrandly
@@ -350,11 +415,15 @@ Opinionated list of SaaS offerings for startups _2023_
 - Marketo
 - Zapier
 
+[🔼 Back to top](#categories)
+
 #### ML
 
 - IBM Watson
 - BigML
 - GCP Prediction
+
+[🔼 Back to top](#categories)
 
 #### Monitoring
 
@@ -365,6 +434,8 @@ Opinionated list of SaaS offerings for startups _2023_
 - Datadog
 - Elastic.co
 - New Relic
+
+[🔼 Back to top](#categories)
 
 #### Multi Cloud
 
@@ -377,11 +448,15 @@ Opinionated list of SaaS offerings for startups _2023_
 - OpenPitrix.io | App Management MultiCloud
 - Plural.sh :OS: :K8S:
 
+[🔼 Back to top](#categories)
+
 #### NLP
 
 - GCP NLP
 - Tolgee.io
 - ChatGPT
+
+[🔼 Back to top](#categories)
 
 #### Notes
 
@@ -390,9 +465,13 @@ Opinionated list of SaaS offerings for startups _2023_
 - Logseq.com
 - Obsidian.md :OS:
 
+[🔼 Back to top](#categories)
+
 #### Onboarding
 
 - Userlane
+
+[🔼 Back to top](#categories)
 
 #### Outreach - Outbound
 
@@ -403,10 +482,14 @@ Opinionated list of SaaS offerings for startups _2023_
 - Dub.co | :Short Link:
 - Svix.com :OS: | Webhooks as a Service
 
+[🔼 Back to top](#categories)
+
 #### Payment
 
 - Stripe
 - Adyen
+
+[🔼 Back to top](#categories)
 
 #### PM - Project Management
 
@@ -421,11 +504,17 @@ Opinionated list of SaaS offerings for startups _2023_
 - Plane.so
 - Linear.app
 
+[🔼 Back to top](#categories)
+
 #### Productivity
+
+[🔼 Back to top](#categories)
 
 #### Sales - Leads
 
 - KyLeads
+
+[🔼 Back to top](#categories)
 
 #### Security
 
@@ -440,14 +529,20 @@ Opinionated list of SaaS offerings for startups _2023_
 - BitWardern
 - DocuSign
 
+[🔼 Back to top](#categories)
+
 #### Slides
 
 - Slido
 - SliDev
 
+[🔼 Back to top](#categories)
+
 #### Status
 
 - Uptime
+
+[🔼 Back to top](#categories)
 
 #### Subscription
 
@@ -457,6 +552,8 @@ Opinionated list of SaaS offerings for startups _2023_
 - Superpayit
 - Paddle
 
+[🔼 Back to top](#categories)
+
 #### Testing - QA
 
 - Cypress
@@ -464,16 +561,26 @@ Opinionated list of SaaS offerings for startups _2023_
 - Puppeteer
 - Optimizely
 
+[🔼 Back to top](#categories)
+
 #### Tracking
 
 - OpenReplay
 - FullStory
+
+[🔼 Back to top](#categories)
 
 #### VSC - Version Source Control
 
 - GitHub
 - Bitbucket
 - GitLab
+
+---
+
+[🔼 Back to top](#categories)
+
+## Personal Choice
 
 ---
 
