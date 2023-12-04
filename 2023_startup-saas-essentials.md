@@ -2,113 +2,113 @@
 
 Opinionated list of SaaS offerings for startups _2023_
 
-### [General Tools](#general-tools)
+- [General Tools](#general-tools)
 
 ---
 
 ## Categories
 
-### [AI](#ai)
+- [AI](#ai)
 
-### [Accounting](#accounting)
+- [Accounting](#accounting)
 
-### [Analytics](#analytics)
+- [Analytics](#analytics)
 
-### [Auth](#auth)
+- [Auth](#auth)
 
-### [Automation : Orchestration](#automation-:-orchestration)
+- [Automation : Orchestration](#automation-:-orchestration)
 
-### [BPM | Business Process Management](#bpm-|-business-process-management)
+- [BPM | Business Process Management](#bpm-|-business-process-management)
 
-### [CI/CD | Continuous Integration : Continuous Delivery](#ci/cd-|-continuous-integration-:-continuous-delivery)
+- [CI/CD | Continuous Integration : Continuous Delivery](#ci/cd-|-continuous-integration-:-continuous-delivery)
 
-### [CRM](#crm)
+- [CRM](#crm)
 
-### [CRO | Conversion Rate Optimization](#cro-|-conversion-rate-optimization)
+- [CRO | Conversion Rate Optimization](#cro-|-conversion-rate-optimization)
 
-### [CS | Customer Support](#cs-|-customer-support)
+- [CS | Customer Support](#cs-|-customer-support)
 
-### [CSP | Cloud Service Provider](#csp-|-cloud-service-provider)
+- [CSP | Cloud Service Provider](#csp-|-cloud-service-provider)
 
-### [Cloud Native](#cloud-native)
+- [Cloud Native](#cloud-native)
 
-### [Cloud Nightly](#cloud-nightly)
+- [Cloud Nightly](#cloud-nightly)
 
-### [Communication](#communication)
+- [Communication](#communication)
 
-### [Content](#content)
+- [Content](#content)
 
-### [DNS](#dns)
+- [DNS](#dns)
 
-### [Design](#design)
+- [Design](#design)
 
-### [Development](#development)
+- [Development](#development)
 
-### [Diagrams](#diagrams)
+- [Diagrams](#diagrams)
 
-### [Documentation](#documentation)
+- [Documentation](#documentation)
 
-### [ERP](#erp)
+- [ERP](#erp)
 
-### [ETC](#etc)
+- [ETC](#etc)
 
-### [Feedback | NPS](#feedback-|-nps)
+- [Feedback | NPS](#feedback-|-nps)
 
-### [Growth | AB | FeatureFlag | RemoteConfig](#growth-|-ab-|-featureflag-|-remoteconfig)
+- [Growth | AB | FeatureFlag | RemoteConfig](#growth-|-ab-|-featureflag-|-remoteconfig)
 
-### [HR | Human Resources](#hr-|-human-resources)
+- [HR | Human Resources](#hr-|-human-resources)
 
-### [Headless CMS | Content Management System](#headless-cms-|-content-management-system)
+- [Headless CMS | Content Management System](#headless-cms-|-content-management-system)
 
-### [Incubators : Accelerators](#incubators-:-accelerators)
+- [Incubators : Accelerators](#incubators-:-accelerators)
 
-### [Investors](#investors)
+- [Investors](#investors)
 
-### [KB | Knowledge Base](#kb-|-knowledge-base)
+- [KB | Knowledge Base](#kb-|-knowledge-base)
 
-### [KPIs : OKRs](#kpis-:-okrs)
+- [KPIs : OKRs](#kpis-:-okrs)
 
-### [Landing Page](#landing-page)
+- [Landing Page](#landing-page)
 
-### [Low : No Code](#low-:-no-code)
+- [Low : No Code](#low-:-no-code)
 
-### [ML](#ml)
+- [ML](#ml)
 
-### [Marketing](#marketing)
+- [Marketing](#marketing)
 
-### [Monitoring](#monitoring)
+- [Monitoring](#monitoring)
 
-### [Multi Cloud](#multi-cloud)
+- [Multi Cloud](#multi-cloud)
 
-### [NLP](#nlp)
+- [NLP](#nlp)
 
-### [Notes](#notes)
+- [Notes](#notes)
 
-### [Onboarding](#onboarding)
+- [Onboarding](#onboarding)
 
-### [Outreach : Outbound](#outreach-:-outbound)
+- [Outreach : Outbound](#outreach-:-outbound)
 
-### [PM | Project Management](#pm-|-project-management)
+- [PM | Project Management](#pm-|-project-management)
 
-### [Payment](#payment)
+- [Payment](#payment)
 
-### [Productivity](#productivity)
+- [Productivity](#productivity)
 
-### [Sales : Leads](#sales-:-leads)
+- [Sales : Leads](#sales-:-leads)
 
-### [Security](#security)
+- [Security](#security)
 
-### [Slides](#slides)
+- [Slides](#slides)
 
-### [Status](#status)
+- [Status](#status)
 
-### [Subscription](#subscription)
+- [Subscription](#subscription)
 
-### [Testing : QA](#testing-:-qa)
+- [Testing : QA](#testing-:-qa)
 
-### [Tracking](#tracking)
+- [Tracking](#tracking)
 
-### [VSC | Version Source Control](#vsc-|-version-source-control)
+- [VSC | Version Source Control](#vsc-|-version-source-control)
 
 ---
 
