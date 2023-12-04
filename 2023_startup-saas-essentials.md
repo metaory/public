@@ -172,11 +172,11 @@ Opinionated list of SaaS offerings for startups _2023_
 
 #### Automation - Orchestration
 
-- n8n.io :OS:
-- Prefect.io :OS:
-- Robocorp.com :OS: :PY:
-- Activepieces.com :OS:
-- Temporal.io :OS:
+- n8n.io 
+- Prefect.io 
+- Robocorp.com  :PY:
+- Activepieces.com 
+- Temporal.io 
 
 [🔼 Back to top](#categories)
 
@@ -201,12 +201,12 @@ Opinionated list of SaaS offerings for startups _2023_
 - Fly.io
 - OpenFaaS.com
 - SST.dev
-- Serverless.com :OS:
+- Serverless.com 
 - CloudFlare.Workers
 - Firebase.google.com
-- SupaBase.com :OS:
-- nhost.io :OS:
-- Space-Cloud.io :OS:
+- SupaBase.com 
+- nhost.io 
+- Space-Cloud.io 
 - Vercel
 
 [🔼 Back to top](#categories)
@@ -300,7 +300,7 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - Sage.com
 - SAP
-- ERPNext.com :OS:
+- ERPNext.com 
 - Odoo.com
 
 [🔼 Back to top](#categories)
@@ -365,7 +365,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - Notion.so
 - Confluence
 - Outline
-- appflowy.io :OS:
+- appflowy.io 
 
 [🔼 Back to top](#categories)
 
@@ -392,14 +392,14 @@ Opinionated list of SaaS offerings for startups _2023_
 - AppSmith
 - Airtable
 - Appsmith.com
-- ToolJet.com :OS:
-- illacloud.com :OS:
-- Windmill.dev :OS:
-- Form.io :OS:
-- NocoDB :OS:
-- Rowy :OS:
-- Appwrite.io :OS:
-- Budibase.com :OS:
+- ToolJet.com 
+- illacloud.com 
+- Windmill.dev 
+- Form.io 
+- NocoDB 
+- Rowy 
+- Appwrite.io 
+- Budibase.com 
 
 [🔼 Back to top](#categories)
 
@@ -407,7 +407,7 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - Rebrandly
 - Calendly
-- Cal.com :OS:
+- Cal.com 
 - Pendo
 - Marketo
 - Zapier
@@ -438,12 +438,12 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - K8S.io
 - K3S.io
-- Qovery.com :OS:
+- Qovery.com 
 - Lithops
 - -Choerodon.io- :OS CN:
-- Claudie.io :OS:
+- Claudie.io 
 - OpenPitrix.io | App Management MultiCloud
-- Plural.sh :OS: :K8S:
+- Plural.sh  :K8S:
 
 [🔼 Back to top](#categories)
 
@@ -460,7 +460,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - Bangle.io
 - Notebase.io
 - Logseq.com
-- Obsidian.md :OS:
+- Obsidian.md 
 
 [🔼 Back to top](#categories)
 
@@ -477,7 +477,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - MailChimp
 - [Wistia](https://wistia.com)
 - Dub.co | :Short Link:
-- Svix.com :OS: | Webhooks as a Service
+- Svix.com  | Webhooks as a Service
 
 [🔼 Back to top](#categories)
 
