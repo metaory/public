@@ -2,7 +2,7 @@
 
 Opinionated notes
 
-### [2023 Startup SaaS Essentials](2023_startup-saas-essentials.md)
+### [2024 Startup SaaS Essentials](2024_startup-saas-essentials.md)
 
 ---
 
