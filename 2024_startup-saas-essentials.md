@@ -2,11 +2,9 @@
 
 Opinionated list of SaaS offerings for startups _2024_
 
-- [General Tools](#general-tools)
-
 ---
 
-## Selection
+# Selection
 
 | Category                                            | Option                                                                          |
 | --------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -60,7 +58,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 ---
 
-## Categories
+# Categories
 
 - [AI](#ai)
 - [Accounting](#accounting)
@@ -115,11 +113,11 @@ Opinionated list of SaaS offerings for startups _2024_
 
 ---
 
-### General Tools
+# General Tools
 
 [Back to top](#categories)
 
-#### Password Generators
+## Password Generators
 
 - [passwordsgenerator.net](https://passwordsgenerator.net/)
 - [1password](https://1password.com/password-generator/)
@@ -127,25 +125,25 @@ Opinionated list of SaaS offerings for startups _2024_
 - [avast](https://vast.com/en-my/random-password-generator#pc/)
 - padloc
 
-### SaaS Offerings
+# SaaS Offerings
 
 [Back to top](#categories)
 
-#### Accounting
+## Accounting
 
 - QuickBooks
 - Xero
 
 [Back to top](#categories)
 
-#### AI
+## AI
 
 - OpenAI.com
 - Jina.ai
 
 [Back to top](#categories)
 
-#### Analytics
+## Analytics
 
 - GA | Google Analytics
 - Segment
@@ -158,7 +156,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Auth
+## Auth
 
 - Auth0
 - Okta
@@ -170,7 +168,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Automation - Orchestration
+## Automation - Orchestration
 
 - n8n.io 
 - Prefect.io 
@@ -180,13 +178,13 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### BPM - Business Process Management
+## BPM - Business Process Management
 
 - process.st
 
 [Back to top](#categories)
 
-#### CI-CD - Continuous Integration - Continuous Delivery
+## CI-CD - Continuous Integration - Continuous Delivery
 
 - GitHub Actions
 - CircleCI
@@ -196,7 +194,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Cloud Nightly
+## Cloud Nightly
 
 - Fly.io
 - OpenFaaS.com
@@ -211,7 +209,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Communication
+## Communication
 
 - Slack
 - Loom
@@ -219,7 +217,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Content
+## Content
 
 - Weglot `i18n`
 - Tolgee `i18n`
@@ -228,7 +226,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### CRM
+## CRM
 
 - Close.com
 - HubSpot.com
@@ -236,13 +234,13 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### CRO - Conversion Rate Optimization
+## CRO - Conversion Rate Optimization
 
 - Hotjar
 
 [Back to top](#categories)
 
-#### CS - Customer Support
+## CS - Customer Support
 
 - Intercom
 - FreshDesk
@@ -252,7 +250,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### CSP - Cloud Service Provider
+## CSP - Cloud Service Provider
 
 - AWS
 - GCP
@@ -262,7 +260,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Design
+## Design
 
 - Figma
 - Canva
@@ -272,7 +270,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Development
+## Development
 
 - Glitch
 - Jetbrains X
@@ -280,7 +278,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Diagrams
+## Diagrams
 
 - Whimsical
 - Excalidraw
@@ -289,14 +287,14 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### DNS
+## DNS
 
 - CloudFlare.dns
 - AWS.Route53
 
 [Back to top](#categories)
 
-#### ERP
+## ERP
 
 - Sage.com
 - SAP
@@ -305,7 +303,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### ETC
+## ETC
 
 - GetTerms.io
 - free-for.life
@@ -313,7 +311,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Feedback - NPS
+## Feedback - NPS
 
 - Canny
 - Intercom
@@ -323,14 +321,14 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Growth - AB - FeatureFlag - RemoteConfig
+## Growth - AB - FeatureFlag - RemoteConfig
 
 - Flagsmith.com
 - GrowthBook.io
 
 [Back to top](#categories)
 
-#### Headless CMS - Content Management System
+## Headless CMS - Content Management System
 
 - Tipe
 - Strapi
@@ -338,7 +336,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### HR - Human Resources
+## HR - Human Resources
 
 - GoHire
 - Swingvy
@@ -347,20 +345,20 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Incubators - Accelerators
+## Incubators - Accelerators
 
 - YCombinator
 - 500Startups
 
 [Back to top](#categories)
 
-#### Investors
+## Investors
 
 - ledgy - equity management
 
 [Back to top](#categories)
 
-#### KB - Knowledge Base
+## KB - Knowledge Base
 
 - Notion.so
 - Confluence
@@ -369,21 +367,21 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### KPIs - OKRs
+## KPIs - OKRs
 
 - baremetrics - Revenue tracking
 - strides
 
 [Back to top](#categories)
 
-#### Landing Page
+## Landing Page
 
 - Unbounce
 - Webflow
 
 [Back to top](#categories)
 
-#### Low - No Code
+## Low - No Code
 
 - Evidence.dev | :OS.BI.AC:
 - Retool
@@ -403,7 +401,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Marketing
+## Marketing
 
 - Rebrandly
 - Calendly
@@ -414,7 +412,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### ML
+## ML
 
 - IBM Watson
 - BigML
@@ -422,7 +420,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Monitoring
+## Monitoring
 
 - Sentry
 - Signoz
@@ -434,7 +432,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Multi Cloud
+## Multi Cloud
 
 - K8S.io
 - K3S.io
@@ -447,7 +445,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### NLP
+## NLP
 
 - GCP NLP
 - Tolgee.io
@@ -455,7 +453,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Notes
+## Notes
 
 - Bangle.io
 - Notebase.io
@@ -464,13 +462,13 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Onboarding
+## Onboarding
 
 - Userlane
 
 [Back to top](#categories)
 
-#### Outreach - Outbound
+## Outreach - Outbound
 
 - Pusher
 - SendGrid
@@ -481,14 +479,14 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Payment
+## Payment
 
 - Stripe
 - Adyen
 
 [Back to top](#categories)
 
-#### PM - Project Management
+## PM - Project Management
 
 - Jira
 - ClickUp
@@ -503,17 +501,17 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Productivity
+## Productivity
 
 [Back to top](#categories)
 
-#### Sales - Leads
+## Sales - Leads
 
 - KyLeads
 
 [Back to top](#categories)
 
-#### Security
+## Security
 
 - Faradaysec.com
 - ProjectDiscovery.io
@@ -528,20 +526,20 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Slides
+## Slides
 
 - Slido
 - SliDev
 
 [Back to top](#categories)
 
-#### Status
+## Status
 
 - Uptime
 
 [Back to top](#categories)
 
-#### Subscription
+## Subscription
 
 - Chargebee
 - ReCharge
@@ -551,7 +549,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Testing - QA
+## Testing - QA
 
 - Cypress
 - Playwright
@@ -560,14 +558,14 @@ Opinionated list of SaaS offerings for startups _2024_
 
 [Back to top](#categories)
 
-#### Tracking
+## Tracking
 
 - OpenReplay
 - FullStory
 
 [Back to top](#categories)
 
-#### VSC - Version Source Control
+## VSC - Version Source Control
 
 - GitHub
 - Bitbucket
@@ -575,7 +573,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 ---
 
-## Reference
+# Reference
 
 - [heyspacetime/awesome-startup](https://github.com/heyspacetime/awesome-startup)
 - [eferrares/awesome-startup-resources](https://github.com/eferrares/awesome-startup-resources)
@@ -587,6 +585,6 @@ Opinionated list of SaaS offerings for startups _2024_
 - [free-for.dev](https://free-for.dev)
 - [betalist.com](https://betalist.com)
 
-## License
+# License
 
 [Creative Commons License](LICENSE)
