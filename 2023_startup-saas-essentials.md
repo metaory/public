@@ -6,6 +6,60 @@ Opinionated list of SaaS offerings for startups _2023_
 
 ---
 
+## Selection
+
+| Category                                            | Selected                                                                        |
+| --------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Accounting                                          | QuickBooks                                                                      |
+| AI                                                  | OpenAI                                                                          |
+| Analytics                                           | Segment, Clicky, GA                                                             |
+| Auth                                                |                                                                                 |
+| Automation - Orchestration                          | Auth0, Cognito, Ory, Zitadel                                                    |
+| BPM - Business Process Management                   | n8n, Temporal                                                                   |
+| CICD - Continuous Integration - Continuous Delivery | GitHubAction                                                                    |
+| Cloud Nightly                                       | Fly.io, SupaBase                                                                |
+| Communication                                       | Slack, Loom                                                                     |
+| Content                                             | Weglot, Webflow, Grammarly                                                      |
+| CRM                                                 | HubSpot                                                                         |
+| CRO - Conversion Rate Optimization                  | Hotjar                                                                          |
+| CS - Customer Support                               | Intercom                                                                        |
+| CSP - Cloud Service Provider                        | AWS                                                                             |
+| Design                                              | Figma, Miro                                                                     |
+| Development                                         | Neovim                                                                          |
+| Diagrams                                            | Whimsical                                                                       |
+| DNS                                                 | CloudFlare                                                                      |
+| ERP                                                 | ?                                                                               |
+| Feedback - NPS                                      | Canny, FeatureOS                                                                |
+| Growth - AB - FeatureFlag - RemoteConfig            | Flagsmith                                                                       |
+| Headless CMS - Content Management System            | Strapi                                                                          |
+| HR - Human Resources                                | Swingvy                                                                         |
+| Incubators - Accelerators                           | 500Startups                                                                     |
+| KB - Knowledge Base                                 | Notion.so                                                                       |
+| KPIs - OKRs                                         | Baremetrics                                                                     |
+| Landing Page                                        | Unbounce,Webflow                                                                |
+| Low - No Code                                       | Retool, NocoDB, Appwrite, Budibase                                              |
+| Marketing                                           | Cal, Pendo                                                                      |
+| ML                                                  | GCP Prediction                                                                  |
+| Monitoring                                          | Sentry, Signoz, Elastic                                                         |
+| Multi Cloud                                         | Claudie, Oovery, Plural                                                         |
+| NLP                                                 | GCP, GPT                                                                        |
+| Notes                                               | Obsidian                                                                        |
+| Onboarding                                          | Userlane                                                                        |
+| Outreach - Outbound                                 | Pusher, Dub                                                                     |
+| Payment                                             | Stripe                                                                          |
+| PM - Project Management                             | Linear                                                                          |
+| Productivity                                        | -                                                                               |
+| Sales - Leads                                       | KyLeads                                                                         |
+| Security                                            | {SOBM, SAST, SCA, Dependency, Secret, MissConfiguration}Scans, ProjectDiscovery |
+| Slides                                              | Sli.dev                                                                         |
+| Status                                              | -                                                                               |
+| Subscription                                        | ReCharge                                                                        |
+| Testing - QA                                        | Playwright, Optimizely                                                          |
+| Tracking                                            | OpenReplay, FullStory                                                           |
+| VSC - Version Source Control                        | GitHub                                                                          |
+
+---
+
 ## Categories
 
 - [AI](#ai)
@@ -58,60 +112,6 @@ Opinionated list of SaaS offerings for startups _2023_
 - [Testing - QA](#testing---qa)
 - [Tracking](#tracking)
 - [VSC - Version Source Control](#vsc---version-source-control)
-
----
-
-## Selected
-
-| Category                                            | Selected                                                                        |
-| --------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Accounting                                          | QuickBooks                                                                      |
-| AI                                                  | OpenAI                                                                          |
-| Analytics                                           | Segment, Clicky, GA                                                             |
-| Auth                                                |                                                                                 |
-| Automation - Orchestration                          | Auth0, Cognito, Ory, Zitadel                                                    |
-| BPM - Business Process Management                   | n8n, Temporal                                                                   |
-| CICD - Continuous Integration - Continuous Delivery | GitHubAction                                                                    |
-| Cloud Nightly                                       | Fly.io, SupaBase                                                                |
-| Communication                                       | Slack, Loom                                                                     |
-| Content                                             | Weglot, Webflow, Grammarly                                                      |
-| CRM                                                 | HubSpot                                                                         |
-| CRO - Conversion Rate Optimization                  | Hotjar                                                                          |
-| CS - Customer Support                               | Intercom                                                                        |
-| CSP - Cloud Service Provider                        | AWS                                                                             |
-| Design                                              | Figma, Miro                                                                     |
-| Development                                         | Neovim                                                                          |
-| Diagrams                                            | Whimsical                                                                       |
-| DNS                                                 | CloudFlare                                                                      |
-| ERP                                                 | ?                                                                               |
-| Feedback - NPS                                      | Canny, FeatureOS                                                                |
-| Growth - AB - FeatureFlag - RemoteConfig            | Flagsmith                                                                       |
-| Headless CMS - Content Management System            | Strapi                                                                          |
-| HR - Human Resources                                | Swingvy                                                                         |
-| Incubators - Accelerators                           | 500Startups                                                                     |
-| KB - Knowledge Base                                 | Notion.so                                                                       |
-| KPIs - OKRs                                         | Baremetrics                                                                     |
-| Landing Page                                        | Unbounce,Webflow                                                                |
-| Low - No Code                                       | Retool, NocoDB, Appwrite, Budibase                                              |
-| Marketing                                           | Cal, Pendo                                                                      |
-| ML                                                  | GCP Prediction                                                                  |
-| Monitoring                                          | Sentry, Signoz, Elastic                                                         |
-| Multi Cloud                                         | Claudie, Oovery, Plural                                                         |
-| NLP                                                 | GCP, GPT                                                                        |
-| Notes                                               | Obsidian                                                                        |
-| Onboarding                                          | Userlane                                                                        |
-| Outreach - Outbound                                 | Pusher, Dub                                                                     |
-| Payment                                             | Stripe                                                                          |
-| PM - Project Management                             | Linear                                                                          |
-| Productivity                                        | -                                                                               |
-| Sales - Leads                                       | KyLeads                                                                         |
-| Security                                            | {SOBM, SAST, SCA, Dependency, Secret, MissConfiguration}Scans, ProjectDiscovery |
-| Slides                                              | Sli.dev                                                                         |
-| Status                                              | -                                                                               |
-| Subscription                                        | ReCharge                                                                        |
-| Testing - QA                                        | Playwright, Optimizely                                                          |
-| Tracking                                            | OpenReplay, FullStory                                                           |
-| VSC - Version Source Control                        | GitHub                                                                          |
 
 ---
 
