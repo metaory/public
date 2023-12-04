@@ -16,19 +16,19 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - [Auth](#auth)
 
-- [Automation : Orchestration](#automation-:-orchestration)
+- [Automation - Orchestration](#automation---orchestration)
 
-- [BPM | Business Process Management](#bpm-|-business-process-management)
+- [BPM - Business Process Management](#bpm---business-process-management)
 
-- [CI/CD | Continuous Integration : Continuous Delivery](#ci/cd-|-continuous-integration-:-continuous-delivery)
+- [CI/CD - Continuous Integration - Continuous Delivery](#ci/cd---continuous-integration---continuous-delivery)
 
 - [CRM](#crm)
 
-- [CRO | Conversion Rate Optimization](#cro-|-conversion-rate-optimization)
+- [CRO - Conversion Rate Optimization](#cro---conversion-rate-optimization)
 
-- [CS | Customer Support](#cs-|-customer-support)
+- [CS - Customer Support](#cs---customer-support)
 
-- [CSP | Cloud Service Provider](#csp-|-cloud-service-provider)
+- [CSP - Cloud Service Provider](#csp---cloud-service-provider)
 
 - [Cloud Native](#cloud-native)
 
@@ -52,25 +52,25 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - [ETC](#etc)
 
-- [Feedback | NPS](#feedback-|-nps)
+- [Feedback - NPS](#feedback---nps)
 
-- [Growth | AB | FeatureFlag | RemoteConfig](#growth-|-ab-|-featureflag-|-remoteconfig)
+- [Growth - AB - FeatureFlag - RemoteConfig](#growth---ab---featureflag---remoteconfig)
 
-- [HR | Human Resources](#hr-|-human-resources)
+- [HR - Human Resources](#hr---human-resources)
 
-- [Headless CMS | Content Management System](#headless-cms-|-content-management-system)
+- [Headless CMS - Content Management System](#headless-cms---content-management-system)
 
-- [Incubators : Accelerators](#incubators-:-accelerators)
+- [Incubators - Accelerators](#incubators---accelerators)
 
 - [Investors](#investors)
 
-- [KB | Knowledge Base](#kb-|-knowledge-base)
+- [KB - Knowledge Base](#kb---knowledge-base)
 
-- [KPIs : OKRs](#kpis-:-okrs)
+- [KPIs - OKRs](#kpis---okrs)
 
 - [Landing Page](#landing-page)
 
-- [Low : No Code](#low-:-no-code)
+- [Low - No Code](#low---no-code)
 
 - [ML](#ml)
 
@@ -86,15 +86,15 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - [Onboarding](#onboarding)
 
-- [Outreach : Outbound](#outreach-:-outbound)
+- [Outreach - Outbound](#outreach---outbound)
 
-- [PM | Project Management](#pm-|-project-management)
+- [PM - Project Management](#pm---project-management)
 
 - [Payment](#payment)
 
 - [Productivity](#productivity)
 
-- [Sales : Leads](#sales-:-leads)
+- [Sales - Leads](#sales---leads)
 
 - [Security](#security)
 
@@ -104,11 +104,11 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - [Subscription](#subscription)
 
-- [Testing : QA](#testing-:-qa)
+- [Testing - QA](#testing---qa)
 
 - [Tracking](#tracking)
 
-- [VSC | Version Source Control](#vsc-|-version-source-control)
+- [VSC - Version Source Control](#vsc---version-source-control)
 
 ---
 
@@ -155,7 +155,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - Ory Identity
 - Zitadel
 
-#### Automation : Orchestration
+#### Automation - Orchestration
 
 - n8n.io :OS:
 - Prefect.io :OS:
@@ -163,11 +163,11 @@ Opinionated list of SaaS offerings for startups _2023_
 - Activepieces.com :OS:
 - Temporal.io :OS:
 
-#### BPM | Business Process Management
+#### BPM - Business Process Management
 
 - process.st
 
-#### CI/CD | Continuous Integration : Continuous Delivery
+#### CI/CD - Continuous Integration - Continuous Delivery
 
 - GitHub Actions
 - CircleCI
@@ -209,11 +209,11 @@ Opinionated list of SaaS offerings for startups _2023_
 - HubSpot.com
 - Salesforce.com
 
-#### CRO | Conversion Rate Optimization
+#### CRO - Conversion Rate Optimization
 
 - Hotjar
 
-#### CS | Customer Support
+#### CS - Customer Support
 
 - Intercom
 - FreshDesk
@@ -221,7 +221,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - GrooveHQ
 - Customer.io
 
-#### CSP | Cloud Service Provider
+#### CSP - Cloud Service Provider
 
 - AWS
 - GCP
@@ -270,7 +270,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - free-for.life
 - OpenBBTerminal | :Investment Research:
 
-#### Feedback | NPS
+#### Feedback - NPS
 
 - Canny
 - Intercom
@@ -278,25 +278,25 @@ Opinionated list of SaaS offerings for startups _2023_
 - Crisp
 - FeatureOS
 
-#### Growth | AB | FeatureFlag | RemoteConfig
+#### Growth - AB - FeatureFlag - RemoteConfig
 
 - Flagsmith.com
 - GrowthBook.io
 
-#### Headless CMS | Content Management System
+#### Headless CMS - Content Management System
 
 - Tipe
 - Strapi
 - cockpit
 
-#### HR | Human Resources
+#### HR - Human Resources
 
 - GoHire
 - Swingvy
 - Bamboo
 - Hubstaff
 
-#### Incubators : Accelerators
+#### Incubators - Accelerators
 
 - YCombinator
 - 500Startups
@@ -305,14 +305,14 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - ledgy - equity management
 
-#### KB | Knowledge Base
+#### KB - Knowledge Base
 
 - Notion.so
 - Confluence
 - Outline
 - appflowy.io :OS:
 
-#### KPIs : OKRs
+#### KPIs - OKRs
 
 - baremetrics - Revenue tracking
 - strides
@@ -322,7 +322,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - Unbounce
 - Webflow
 
-#### Low : No Code
+#### Low - No Code
 
 - Evidence.dev | :OS.BI.AC:
 - Retool
@@ -394,7 +394,7 @@ Opinionated list of SaaS offerings for startups _2023_
 
 - Userlane
 
-#### Outreach : Outbound
+#### Outreach - Outbound
 
 - Pusher
 - SendGrid
@@ -408,7 +408,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - Stripe
 - Adyen
 
-#### PM | Project Management
+#### PM - Project Management
 
 - Jira
 - ClickUp
@@ -423,7 +423,7 @@ Opinionated list of SaaS offerings for startups _2023_
 
 #### Productivity
 
-#### Sales : Leads
+#### Sales - Leads
 
 - KyLeads
 
@@ -457,7 +457,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - Superpayit
 - Paddle
 
-#### Testing : QA
+#### Testing - QA
 
 - Cypress
 - Playwright
@@ -469,7 +469,7 @@ Opinionated list of SaaS offerings for startups _2023_
 - OpenReplay
 - FullStory
 
-#### VSC | Version Source Control
+#### VSC - Version Source Control
 
 - GitHub
 - Bitbucket
