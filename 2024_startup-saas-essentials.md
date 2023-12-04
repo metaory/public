@@ -6,7 +6,7 @@ Opinionated list of SaaS offerings for startups _2024_
 
 ---
 
-## Selection
+## Services
 
 | Category                                            | Option                                                                          |
 | --------------------------------------------------- | ------------------------------------------------------------------------------- |
