@@ -306,7 +306,7 @@ Opinionated list of SaaS offerings for startups _2024_
 ## ETC
 
 - GetTerms.io
-- free.wdh.gg
+- free.hrsn.dev
 - OpenBBTerminal | :Investment Research:
 
 [Back to top](#categories)
